@@ -1,0 +1,7 @@
+{
+  "name": "Mi Menúv2",
+  "description": "Aplicación PWA para gestión de recetas, planificación semanal y lista de compras con soporte de voz y funcionamiento offline.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
